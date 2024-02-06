@@ -35,4 +35,38 @@
   to {
     transform: rotate(360deg);
   }
+}.App h3{
+  margin-top: 150px;
+}
+.App h4 {
+
+  margin: 5px;
+}
+#wtsp  {
+  background-color: #25d366;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  /* margin-top: 10px; */
+  margin: 20px 0px;
+}
+#insta  {
+  background-color: #fa7e1e ;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  /* margin-top: 10px; */
+  margin: 20px 5px;
+}
+#insta:hover{
+  background-color: #feda75;
+}
+#wtsp:hover{
+  background-color: #128c7e;
 }

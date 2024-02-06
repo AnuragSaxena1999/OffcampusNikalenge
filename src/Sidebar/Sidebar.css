@@ -1,0 +1,24 @@
+
+
+.sidebar {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    top: 90px;
+    left: 0;
+    background-color: white;
+    padding-top: 20px;
+    color: #fff;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .sidebar h2 {
+    margin-bottom: 20px;
+  }
+  @media screen and (max-width: 1299px) {
+    .sidebar {
+      transform: translateX(-250px);
+    }
+  }
+  
+

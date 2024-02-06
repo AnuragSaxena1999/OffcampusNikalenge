@@ -1,0 +1,46 @@
+.whatsapp-card {
+    
+    margin: 12px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+    
+  }
+  
+  .whatsapp-card h2 {
+    color: #333;
+  }
+  
+  .whatsapp-card p {
+    color: #666;
+  }
+  
+  .whatsapp-card button {
+    background-color: #25d366;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px 0px;
+  }
+  
+  .whatsapp-card button:hover {
+    background-color: #128c7e;
+  }
+  .instagram button{
+    background-color: #fa7e1e ;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 3px;
+  }
+  .instagram button:hover{
+    background-color: #feda75 ;
+  }
