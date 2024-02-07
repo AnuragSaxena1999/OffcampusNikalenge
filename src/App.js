@@ -1,4 +1,4 @@
-import './App.css';
+ import './App.css';
 import CardList from './Cards/CardList';
 import NavBar from './Navbar/Navbar';
 import Sidebar from './Sidebar/Sidebar';
@@ -10,6 +10,14 @@ const App = () => {
   const instaLink = "https://www.instagram.com/offcampusnikalenge?igsh=MTRwNHkxYnRrZXR6aQ=="
 
   const data = [
+    
+    { id: 3, companyName: 'Apple'
+    , profile:'Software developer' 
+    ,location: 'Banglore' 
+    , salary:'50k-60k'
+    , sourceLink: 'https://www.w3schools.com/css/css_border.asp#gsc.tab=0&gsc.q=box%20shadow'
+    , date:'07/02/2024'
+  },
     { id: 2, companyName: 'Microsoft'
     , profile:'React developer' 
     ,location: 'New Delhi' 
